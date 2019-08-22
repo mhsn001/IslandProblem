@@ -1,6 +1,6 @@
 package com.mhsn.island;
 
-/*To solve this problem we use DFS using recursion*/
+/*To solve this problem we use DFS using recursion */
 public class IslandProblem {
 
 	private static void countAndFindMaxIsland(int[][] grid){
